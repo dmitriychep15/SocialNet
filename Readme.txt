@@ -1,0 +1,1 @@
+Simple API social net application, which provides posting articles and communicating with other users.
