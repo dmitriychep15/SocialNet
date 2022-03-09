@@ -21,4 +21,4 @@ services:
     expose:
       - 5001
     volumes:
-      - ./:/usr/src/app/
+      - ./:/app/
